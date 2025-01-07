@@ -1,0 +1,32 @@
+div {
+    border: 1px solid color black;
+    background-color: color(srgb red green blue);
+    padding: 10px;
+    margin: 10px
+}
+#redDiv {
+    color:blueviolet;
+    margin-top: 40px;
+    height: 200px;
+    width: 50px;
+}
+
+.heading {
+    font-family: cursive; 
+    font-weight: 500; 
+    color:green;
+}
+
+body {
+    margin: 0px;
+}
+
+.flexClass {
+    display: flex;
+}
+
+/* comment one line 
+
+
+
+
